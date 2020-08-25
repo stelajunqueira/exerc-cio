@@ -1,6 +1,7 @@
 function chefe(){
-
+    exe7()
 }
+//função testada
 function exe7(){
     conta = 0
     soma = 0
